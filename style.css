@@ -1,0 +1,25 @@
+a:hover {
+    color: red
+}
+
+
+body {
+    background-image: url("banner.png");
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:90%;
+}
+.Title{
+    text-align: center;
+}
+
+.Subtitle{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    justify-content:space-evenly;
+    list-style:none;
+}
